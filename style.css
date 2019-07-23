@@ -1,6 +1,3 @@
-body{
-        background-color: #D8F3F3;
-}
 #scroll-animate
 {
   overflow: hidden;
@@ -107,3 +104,4 @@ footer,
      -moz-transition-timing-function: cubic-bezier(0, 0, 0, 1);
       transition-timing-function: cubic-bezier(0, 0, 0, 1);
 }
+
